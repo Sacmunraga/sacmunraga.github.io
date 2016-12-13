@@ -1,9 +1,0 @@
-Architecture: iphoneos-arm
-Author: Sacmunraga
-Depiction: https://github.com/Sacmunraga/sacmunraga.github.io
-Description: Adds Icon Images
-Maintainer: Sacmunraga <sacmunraga@gmail.com>
-Name: MimoUnlock
-Package: com.sacmunraga.mimounlock
-Section: Tweaks
-Version: 1.2.1
