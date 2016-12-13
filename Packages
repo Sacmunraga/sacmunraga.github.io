@@ -6,9 +6,9 @@ Installed-Size: 124
 Depends: mobilesubstrate
 Filename: ./debs/com.sacmunraga.gpunlock_1.0-4+debug_iphoneos-arm.deb
 Size: 8364
-MD5sum: b44759952b64274195c4a10f66266e3c
-SHA1: 9f1d5d87cbed72719b381efb124fb99029d2350f
-SHA256: 34a9984f7f20adbd1b4d8173bd3e4cbdc4c6b397f1e32d61c9a7bf188f627175
+MD5sum: 546172a3df9dd917be44afe06fe91de4
+SHA1: 204ed1ce1e5fec38c81700d4e55b794f74cfbd8e
+SHA256: 076e0306a721cdbdc3314885a0e5b134860798f4f8ff715305b7cdb96bde235e
 Section: Tweaks
 Description: Unlocks the Game Pass app, watch the NFL for free!
 Author: Sacmunraga
@@ -20,12 +20,12 @@ Architecture: iphoneos-arm
 Maintainer: Sacmunraga
 Depends: mobilesubstrate
 Filename: ./debs/com.sacmunraga.mimounlock_1.2_iphoneos-arm.deb
-Size: 6602
-MD5sum: 9b3b17fa7d0815112983ec3ac56f3d6d
-SHA1: 1b07af0e490d866e7903521fe29ed3e4792173db
-SHA256: 2e8fc2f3fb8e95ce48e9cfe308c9853a9b45a17c502bb9022c7569ea31802a01
+Size: 6318
+MD5sum: 4e455c46e7c877f212b0ab92fed5dcc9
+SHA1: 3a3581155c7efa0c1ce8994585c237e3aa6d465d
+SHA256: a8254d9e73fde374031f5b1cd77cd925dc244c13fed7ed07c43a2cb544a0f580
 Section: Tweaks
-Description: A tweak which unlock’s ALL lessons in Mimo (v1.0.7).
+Description: A tweak which unlock’s ALL lessons in Mimo (v1.2).
 Author: Sacmunraga
 Name: MimoUnlock
 

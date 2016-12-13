@@ -3,7 +3,7 @@ Name: MimoUnlock
 Depends: mobilesubstrate
 Version: 1.2
 Architecture: iphoneos-arm
-Description: A tweak which unlock’s ALL lessons in Mimo (v1.0.7).
+Description: A tweak which unlock’s ALL lessons in Mimo (v1.2).
 Maintainer: Sacmunraga
 Author: Sacmunraga
 Section: Tweaks
