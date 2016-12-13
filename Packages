@@ -14,3 +14,18 @@ Description: Unlocks the Game Pass app, watch the NFL for free!
 Author: Sacmunraga
 Name: GP Unlock
 
+Package: com.sacmunraga.mimounlock
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Sacmunraga
+Installed-Size: 124
+Depends: mobilesubstrate
+Filename: ./debs/com.sacmunraga.mimounlock_1.2-1+debug_iphoneos-arm.deb
+Size: 4528
+MD5sum: 4C78A4607D6A163C901A30F195DE2F91
+SHA1: 2E91150EE625A9C4BFD4775C9A2E4410A10E1570
+SHA256: BCD59B1B7681D80FD249AE2BB43A6E3CBD05D9EFB0288388B2D4C95F275A9997
+Section: Tweaks
+Description: A tweak which unlock's ALL lessons in Mimo (v1.2)
+Author: Sacmunraga
+Name: MimoUnlock
