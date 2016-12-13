@@ -1,15 +1,16 @@
-Package: com.sacmunraga.mimounlock
-Version: 1.2.1
+Package: com.sacmunraga.gpunlock
+Version: 1.0-4+debug
 Architecture: iphoneos-arm
-Maintainer: Sacmunraga <sacmunraga@gmail.com>
-Filename: ./debs/com.sacmunraga.mimounlock_1.2.1_iphoneos-arm.deb
-Size: 696
-MD5sum: 4866fc1b52bb5d7a2a4b02187e8a7351
-SHA1: 84e29c310d925a9e3fd2450d9f82b8dea33bf837
-SHA256: 0e2ea2abee18a4cdd0df99e1c6c524cbfe30afbb5e52b6a8571929690d0450da
+Maintainer: Sacmunraga
+Installed-Size: 124
+Depends: mobilesubstrate
+Filename: ./debs/com.sacmunraga.gpunlock_1.0-4+debug_iphoneos-arm.deb
+Size: 8384
+MD5sum: b4ac34eb7e711e530b7c8564b597b17d
+SHA1: 4630543054ed295bfa2188dc2395dcfca8cdeacf
+SHA256: 582a5d811b9d133441ba2b44a162743fffa8ea3aa14192aa8e231f1f4d7e7741
 Section: Tweaks
-Description: Adds Icon Images
+Description: Unlocks the Game Pass app, watch the NFL for free!
 Author: Sacmunraga
-Depiction: https://github.com/Sacmunraga/sacmunraga.github.io
-Name: MimoUnlock
+Name: GP Unlock
 
