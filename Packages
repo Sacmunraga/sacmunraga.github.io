@@ -1,3 +1,18 @@
+Package: com.sacmunraga.ftunlock
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Sacmunraga
+Depends: mobilesubstrate
+Filename: ./debs/com.sacmunraga.ftunlock_1.0.0_iphoneos-arm.deb
+Size: 5442
+MD5sum: 584e25a822d554bd556bfb1b29669ae5
+SHA1: dee18d5c39fac9cc7bb74eca6421ac6e01302dc9
+SHA256: 5e2f38a3f4cedc20c2d9bf157c002ff7f8e55f1db89fad9b0f2404ade77218f3
+Section: Tweaks
+Description: Unlocks all except one (DVR still doesn’t work) of the fuboTV Pro feautures.
+Author: Sacmunraga
+Name: FTUnlock
+
 Package: com.sacmunraga.gpunlock
 Version: 1.0-4+debug
 Architecture: iphoneos-arm
@@ -6,9 +21,9 @@ Installed-Size: 124
 Depends: mobilesubstrate
 Filename: ./debs/com.sacmunraga.gpunlock_1.0-4+debug_iphoneos-arm.deb
 Size: 8364
-MD5sum: e7b5a36cb9899f0e120a0719f6b62a61
-SHA1: aff70cde2879c27b01373a28b733d5ffca3761db
-SHA256: 05e0d688c9d7f3ad38327751db0780d30e75ee9a4a00df4dc8448e4c75844399
+MD5sum: 455de1777143332d79ae82f042352290
+SHA1: e83776d63031aab11a0ee66abf51da758b165b9a
+SHA256: 93cc9ae71da1ad58507a8548dbc74ac3c0282f914b90ef751577f715c7e68012
 Section: Tweaks
 Description: Unlocks the Game Pass app, watch the NFL for free!
 Author: Sacmunraga
@@ -20,12 +35,12 @@ Architecture: iphoneos-arm
 Maintainer: Sacmunraga
 Depends: mobilesubstrate
 Filename: ./debs/com.sacmunraga.mimounlock_1.2_iphoneos-arm.deb
-Size: 6316
-MD5sum: 5a67cabe5d24c099197069e8358e8ea1
-SHA1: d486f983cc052ef8715f52471f14549259e8b8b5
-SHA256: b82fb589d38d6c6c2abadaa0a163ad3fbec1d2602f29e789399d5d61b2d272e5
+Size: 6318
+MD5sum: 1576f1472205ca000e4353289ac799f3
+SHA1: 9eef8542b55bab4cc431176a7f2c8a3106e9dc4c
+SHA256: 62dcb75607319fb21509ac9b036e0afcd46c7741826bb3e1ae2ada3fdb9a7221
 Section: Tweaks
-Description: A tweak which unlock’s ALL lessons in Mimo v1.2.1.
+Description: A tweak which unlock’s ALL lessons in Mimo (v1.2).
 Author: Sacmunraga
 Name: MimoUnlock
 

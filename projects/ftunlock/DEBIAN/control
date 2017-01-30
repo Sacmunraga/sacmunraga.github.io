@@ -1,0 +1,9 @@
+Package: com.sacmunraga.ftunlock
+Name: FTUnlock
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Unlocks all except one (DVR still doesn’t work) of the fuboTV Pro feautures.
+Maintainer: Sacmunraga
+Author: Sacmunraga
+Section: Tweaks
